@@ -1,0 +1,15 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  font-family: sans-serif;
+  background-color: bisque;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+body {
+  background-color: cadetblue;
+  margin: 0px;
+  padding: 0px;
+}
